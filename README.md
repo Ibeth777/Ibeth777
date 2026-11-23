@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./github-banner.png" width="100%" alt="Ibeth Becerril — Economics + Data Science"/>
+  <img src="./github-banner-ok.png" width="100%" alt="Ibeth Becerril — Economics + Data Science"/>
 </div>
 
 ---
