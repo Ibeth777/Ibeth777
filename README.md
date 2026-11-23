@@ -8,7 +8,7 @@
 
 **ENGLISH**
 
-Economist with a Master's degree in Finance and 12 years of experience in financial markets, investment analysis, capital structuring and infrastructure projects.
+Economist with a Master's degree in Finance and 14 years of experience in financial markets, investment analysis, capital structuring and infrastructure projects.
 
 I combine my background in Economics and Finance with Data Science, statistical modeling and machine learning to transform complex data into actionable insights.
 
@@ -16,7 +16,7 @@ Interested in Behavioral Economics and understanding how economic, psychological
 
 **ESPAÑOL**
 
-Economista con Maestría en Finanzas y 12 años de experiencia en mercados financieros, análisis de inversiones, estructuración de capital y proyectos de infraestructura.
+Economista con Maestría en Finanzas y 14 años de experiencia en mercados financieros, análisis de inversiones, estructuración de capital y proyectos de infraestructura.
 
 Integro mi formación en Economía y Finanzas con Ciencia de Datos, modelado estadístico y Machine Learning para transformar información compleja en insights accionables.
 
@@ -40,7 +40,7 @@ Interesada en Behavioral Economics y en comprender cómo los factores económico
 
 ## TECH STACK | HERRAMIENTAS
 
-### 01. Programming & Data Analysis
+### Programming & Data Analysis
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Interesada en Behavioral Economics y en comprender cómo los factores económico
 
 </div>
 
-### 02. Data Science & Machine Learning
+### Data Science & Machine Learning
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Interesada en Behavioral Economics y en comprender cómo los factores económico
 
 </div>
 
-### 03. Visualization & Business Intelligence
+### Visualization & Business Intelligence
 
 <div align="center">
 
