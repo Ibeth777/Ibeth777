@@ -1,9 +1,4 @@
 
-<div align="center">
-  <img src="./github-banner.png" width="100%" alt="Ibeth Becerril — Economics + Data Science"/>
-</div>
-
----
 
 ## ABOUT ME | SOBRE MÍ
 
